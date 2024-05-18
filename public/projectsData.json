@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "title": "Ecommerce Project ",
+      
+      "description": "Creating a fully customized eCommerce application using Django, React, and Redux involves integrating both backend and frontend technologies to build a comprehensive shopping platform.",
+      "technologies": ["Django REST API", "React.js","Redux","Tailwind CSS", "Material Tailwind","jsonwebtoken"],
+      "image":  "./src/assets/images/skshop.jpg",
+      "link":"https://skkhandokar16.pythonanywhere.com/#/",
+      "githubLink": "https://github.com/skkhandokar/Ecomerce-Django-React-Project"
+    },
+    {
+      "id": 2,
+      "title": "Best Online Shopping Platform ",
+      
+      "description": "Experience seamless online shopping with our Django-powered platform, featuring a user-friendly interface built with HTML, CSS, and JavaScript.",
+      "technologies": ["Django", "HTML","CSS","JavaScript","Tailwind CSS"],
+      "image":"./src/assets/images/online-shop.jpg",
+      "link":"https://skkhandokar15.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/Django-E-commerce"
+    },
+    {
+      "id": 3,
+      "title": "Blood Donation Social Project",
+      "description": "The Blood Donation Management System is a full-stack (DJANGO,HTML,CSS, JAVASCRIPT) application designed to streamline and enhance blood donation activities.",
+      "technologies": ["Django","HTML","CSS","JavaScript","Bootstrap"],
+      "image": "./src/assets/images/blood-donor.jpg",
+      "link":"https://skkhandokar8.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/blood"
+    },
+    {
+      "id": 4,
+      "title": "Disease Prediction Site",
+      "description": "It is a machine learning project where predict user disease and patient can can chat with doctors.",
+      "technologies": ["Django","HTML","CSS","Tailwind CSS","JavaScript","Numpy","Pandas"],
+      "image": "./src/assets/images/diseas-prediction.jpg",
+      "link":"https://skkhandokar9.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/disease_predict"
+    },
+    {
+      "id": 5,
+      "title": "Ema-john Shop",
+      "description": "This website is a React-based platform designed for online shopping",
+      "technologies": ["React", "Firebase", "Tailwind CSS"],
+      "image": "./src/assets/images/ema-john.jpg",
+      "link":"https://sk-ema-john.web.app/",
+      "githubLink": "https://github.com/skkhandokar/ema-john"
+    },
+    {
+      "id": 6,
+      "title": "Online Banking",
+      "description": "It is Banking project where used OOP using python class.",
+      "technologies": ["Python","Django","HTML","Tailwind CSS"],
+      "image": "./src/assets/images/bank.jpg",
+      "link":"https://skkhandokar10.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/banking-with-django"
+    },
+    
+    {
+      "id": 7,
+      "title": "Online Newspaper",
+      "description": "It is an online newspaper where I used wordpress",
+      "technologies": ["Wordpress"],
+      "image": "./src/assets/images/newspaper.jpg",
+      "link":"https://skwordpress.42web.io/"
+     
+    },
+
+    {
+      "id": 8,
+      "title": "Personal Portfolio",
+      "description": "It is a porfolio site using wordpress",
+      "technologies": ["Wordpress"],
+      "image": "./src/assets/images/portfolio.jpg",
+      "link":"https://skkhandokarportfolio.infinityfreeapp.com/"
+    
+    }
+
+  ]
+  
