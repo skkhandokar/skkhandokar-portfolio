@@ -10,19 +10,5 @@
       "src": "public/**/*",
       "use": "@vercel/static"
     }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
   ]
-,{
-    "rewrites": [
-        {
-            "source": "/(.*)",
-            "destination": "/index.html"
-        }
-    ]
-}
 }
