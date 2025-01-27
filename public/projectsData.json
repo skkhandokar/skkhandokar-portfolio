@@ -58,23 +58,15 @@
     
     {
       "id": 7,
-      "title": "Online Newspaper",
-      "description": "It is an online newspaper where I used wordpress",
+      "title": "Health & Wealth Site",
+      "description": "This site is about where I post Health and wealth releted Post",
       "technologies": ["Wordpress"],
       "image": "./src/assets/images/newspaper.jpg",
-      "link":"https://skwordpress.42web.io/"
+      "link":"https://careinfo.site/"
      
     },
 
-    {
-      "id": 8,
-      "title": "Personal Portfolio",
-      "description": "It is a porfolio site using wordpress",
-      "technologies": ["Wordpress"],
-      "image": "./src/assets/images/portfolio.jpg",
-      "link":"https://skkhandokarportfolio.infinityfreeapp.com/"
-    
-    }
+ 
 
   ]
   
