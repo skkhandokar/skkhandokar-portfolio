@@ -52,10 +52,10 @@ const ContactMe = () => {
           <b className="text-[#00FFFF]">phone/whatsapp:</b> or  <b className="text-[#00FFFF]">email:</b>
         </p>
         <span className="flex items-center gap-2 md:text-2xl">
-          <span className="text-[#00FFFF]"><FaMobile /></span>  <h3>+880-01567-880408</h3>
+          <span className="text-[#00FFFF]"><FaMobile /></span>  <h3>+880-01725947656</h3>
         </span>
         <span className="flex items-center gap-2 md:text-2xl">
-          <span className="text-green-500"> <FaWhatsapp /></span>  <h3>+880-01567-880408</h3>
+          <span className="text-green-500"> <FaWhatsapp /></span>  <h3>+880-01725947656</h3>
         </span>
         <span className="flex items-center gap-2 md:text-2xl">
           <span className="text-red-400"> <CiMail /></span>  <h3>khandokarsamad4@gmail.com</h3>

@@ -1,10 +1,62 @@
 [
+
+
+
+  {
+      "id": 8,
+      "title": "Shortfy",
+      "description": "A production-grade URL shortening and link analytics platform engineered for high performance. Built with a Django REST Framework backend and a modern Next.js frontend to ensure optimal Server-Side Rendering (SSR) and SEO efficiency. Features ultra-fast link redirection, robust tracking capabilities, and an intuitive dashboard.",
+      "technologies": ["Django REST Framework","Next.js","Tailwind CSS"],
+      "image": "./src/assets/images/shortfy.png",
+      "link":"https://shortfy.xyz/"
+    
+    },
+ {
+      "id": 6,
+      "title": "Online Banking",
+      "description": "A secure web banking simulation designed around Object-Oriented Programming (OOP) paradigms in Python. Powered by the Django framework, it manages complex financial logic including deposit systems, transfer validation, transaction ledger creation, and account balance auditing with an interactive Tailwind CSS interface.",
+      "technologies": ["Python","Django","HTML","Tailwind CSS"],
+      "image": "./src/assets/images/bank.jpg",
+      "link":"https://skkhandokar10.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/banking-with-django"
+    },
+
+
+    {
+      "id": 4,
+      "title": "Disease Prediction Site",
+     "description": "An innovative digital healthcare platform integrating machine learning with web technologies. Built on a Django backend, it utilizes NumPy and Pandas to analyze user-inputted symptoms and predict potential health conditions. Features a responsive Tailwind CSS dashboard and an integrated communication portal for patient-doctor interactions.",
+      "technologies": ["Django","HTML","CSS","Tailwind CSS","JavaScript","Numpy","Pandas"],
+      "image": "./src/assets/images/diseas-prediction.jpg",
+      "link":"https://skkhandokar9.pythonanywhere.com/",
+      "githubLink": "https://github.com/skkhandokar/disease_predict"
+    },
+
+    {
+      "id": 7,
+      "title": "CMS diagnostic Center",
+      "description": "A professional management system designed for medical diagnostic facilities. Architected with a Django REST Framework (DRF) backend and a highly responsive React.js frontend. Automates essential healthcare workflows such as test catalog browsing, appointment scheduling, and patient report accessibility.",
+      "technologies": ["Django REST Framework","React.js","Tailwind CSS"],
+      "image": "./src/assets/images/cms.png",
+      "link":"https://cms-one-tau.vercel.app/",
+      "githubLink": "https://github.com/skkhandokar/cms"
+    },
+    {
+      "id": 5,
+      "title": "Ema-john Shop",
+      "description": "A modern, high-performance single-page application (SPA) replicating an e-commerce ecosystem. Built using React.js and styled with Tailwind CSS, it leverages Firebase for secure, real-time user authentication and robust hosting. Features synchronous cart states, product discovery interfaces, and an optimized user journey.",
+      "technologies": ["Django", "React.js", "Firebase", "Tailwind CSS"],
+      "image": "./src/assets/images/ema-john.jpg",
+      "link":"https://sk-ema-john.web.app/",
+      "githubLink": "https://github.com/skkhandokar/ema-john"
+    },
+
     {
       "id": 1,
       "title": "Ecommerce Project ",
       
-      "description": "Creating a fully customized eCommerce application using Django, React, and Redux involves integrating both backend and frontend technologies to build a comprehensive shopping platform.",
-      "technologies": ["Django REST API", "React.js","Redux","Tailwind CSS", "Material Tailwind","jsonwebtoken"],
+     "description": "A robust full-stack e-commerce solution engineered with a decoupled architecture. Features an API-driven Django backend paired with a high-performance React and Redux state management frontend. Implements secure token-based authentication (JWT), dynamic product routing, a scalable shopping cart system, and an interactive UI powered by Material Tailwind.",
+      "technologies": ["Django REST Framework", "React.js","Redux","Tailwind CSS", "Material UI"],
       "image":  "./src/assets/images/skshop.jpg",
       "link":"https://skkhandokar16.pythonanywhere.com/#/",
       "githubLink": "https://github.com/skkhandokar/Ecomerce-Django-React-Project"
@@ -13,7 +65,7 @@
       "id": 2,
       "title": "Best Online Shopping Platform ",
       
-      "description": "Experience seamless online shopping with our Django-powered platform, featuring a user-friendly interface built with HTML, CSS, and JavaScript.",
+     "description": "A seamless monolithic e-commerce application powered by Django. Designed with an intuitive and responsive server-side rendered (SSR) frontend using Tailwind CSS and JavaScript. Includes features like product listing, category-based filtering, user session management, and a streamlined checkout flow.",
       "technologies": ["Django", "HTML","CSS","JavaScript","Tailwind CSS"],
       "image":"./src/assets/images/online-shop.jpg",
       "link":"https://skkhandokar15.pythonanywhere.com/",
@@ -22,49 +74,13 @@
     {
       "id": 3,
       "title": "Blood Donation Social Project",
-      "description": "The Blood Donation Management System is a full-stack (DJANGO,HTML,CSS, JAVASCRIPT) application designed to streamline and enhance blood donation activities.",
+      "description": "A community-focused web application designed to streamline blood donation workflows and bridge the gap between donors and recipients. Built with Django and modern frontend tools, the platform features user role management, real-time requests, location-based searching, and status tracking for urgent blood requirements.",
       "technologies": ["Django","HTML","CSS","JavaScript","Bootstrap"],
       "image": "./src/assets/images/blood-donor.jpg",
       "link":"https://skkhandokar8.pythonanywhere.com/",
       "githubLink": "https://github.com/skkhandokar/blood"
-    },
-    {
-      "id": 4,
-      "title": "Disease Prediction Site",
-      "description": "It is a machine learning project where predict user disease and patient can can chat with doctors.",
-      "technologies": ["Django","HTML","CSS","Tailwind CSS","JavaScript","Numpy","Pandas"],
-      "image": "./src/assets/images/diseas-prediction.jpg",
-      "link":"https://skkhandokar9.pythonanywhere.com/",
-      "githubLink": "https://github.com/skkhandokar/disease_predict"
-    },
-    {
-      "id": 5,
-      "title": "Ema-john Shop",
-      "description": "This website is a React-based platform designed for online shopping",
-      "technologies": ["React", "Firebase", "Tailwind CSS"],
-      "image": "./src/assets/images/ema-john.jpg",
-      "link":"https://sk-ema-john.web.app/",
-      "githubLink": "https://github.com/skkhandokar/ema-john"
-    },
-    {
-      "id": 6,
-      "title": "Online Banking",
-      "description": "It is Banking project where used OOP using python class.",
-      "technologies": ["Python","Django","HTML","Tailwind CSS"],
-      "image": "./src/assets/images/bank.jpg",
-      "link":"https://skkhandokar10.pythonanywhere.com/",
-      "githubLink": "https://github.com/skkhandokar/banking-with-django"
-    },
+    }
     
-    {
-      "id": 7,
-      "title": "Health & Wealth Site",
-      "description": "This site is about where I post Health and wealth releted Post",
-      "technologies": ["Wordpress"],
-      "image": "./src/assets/images/newspaper.jpg",
-      "link":"https://careinfo.site/"
-     
-    },
 
  
 
