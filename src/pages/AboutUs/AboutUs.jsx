@@ -8,7 +8,8 @@ import {
 import { FaNodeJs, FaReact } from "react-icons/fa";
 import { FcNext } from "react-icons/fc";
 import { SiMongodb, SiExpress,SiPython, SiDjango,SiPostgresql } from "react-icons/si";
-
+import meImage from "../assets/images/me.jpeg";
+import projectShowImage from "../assets/images/project_show_2024.jpg";
 
 const AboutUs = () => {
   const data = [
@@ -105,7 +106,11 @@ const AboutUs = () => {
       desc: <><div>
         <span className="flex gap-2 items-center text-3xl text-green-800">
 
-<img className="w-[450px] mb-5 flex justify-center"  src="./src/assets/images/project_show_2024.jpg"/>
+<img
+  className="w-[450px] mb-5 flex justify-center"
+  src={projectShowImage}
+  alt="Programming Hero Project Show 2024"
+/>
 </span>
         <h2 className="text-md text-white ">
         I am proud to share that I achieved 4th place in the highly competitive Programming Hero Project Show Contest 2024. This accomplishment stands as a testament to my
@@ -125,10 +130,10 @@ const AboutUs = () => {
       <div className="grid grid-cols-1 lg:grid-cols-3  ">
         <div className="text-right md:py-5 hidden md:block  lg:py-20 lg:mr-5">
           <img
-            className="rounded-md h-[460px]"
-            src="./src/assets/images/me.jpeg"
-            alt=""
-          />
+  className="rounded-md h-[460px]"
+  src={meImage}
+  alt="Khandokar Samadul Kabir"
+/>
         </div>
         <div className="col-span-2  md:py-5 lg:py-16 py-2  space-y-6">
           <div className="space-y-6 mt-10 md:mt-0">
