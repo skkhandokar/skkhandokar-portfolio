@@ -1,7 +1,7 @@
 import profileImg from "../../assets/images/ashiq.png";
 import TextHover from "../../Components/Text/TextHover";
 
-const resumePdf_URL = "https://drive.google.com/file/d/10TnUopZzxs9-ZsY5GD0dFR3KFlf_bfho/view?usp=drive_link";
+const resumePdf_URL = "https://drive.google.com/file/d/1zdAEQYVDnJokREcLtXdkk51fgV4lRnYF/view?usp=sharing";
 const Banner = ({ handlePageChange }) => {
   const downloadPdf = (url) => {
     const fileName = url.split("/").pop();
@@ -38,7 +38,7 @@ const Banner = ({ handlePageChange }) => {
             </span>
           </h2>
           <h2 className="md:text-6xl text-5xl font-extrabold">
-            <span className="text-[#00FFFF]">WEB</span> DEVELOPER
+            <span className="text-[#00FFFF]">Software</span> Engineer
           </h2>
           <div className="flex   gap-5">
             <button

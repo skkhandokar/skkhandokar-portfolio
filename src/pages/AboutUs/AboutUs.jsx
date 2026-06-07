@@ -134,13 +134,16 @@ const AboutUs = () => {
           <div className="space-y-6 mt-10 md:mt-0">
             <h2 className="text-4xl uppercase">About Me</h2>
             <p className="text-justify">
-              Hi! I am Khandokar Samadul Kabir, a versatile Web Developer with extensive experience in both web and software development. Currently, I am focusing on web development and have successfully completed over 10 web projects. My technical skills include HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, and Tailwind CSS. I am adaptable and eager to learn new technologies and features in programming.
+              I am Khandokar Samadul Kabir, a Software Engineer with a strong foundation in full-stack application development and a passion for building scalable, efficient, and user-focused digital solutions. My expertise spans both frontend and backend technologies, allowing me to design, develop, and deploy complete web applications from concept to production.
 
-Additionally, I have a solid background in C, C++, Python, and Django. I possess a strong understanding of Object-Oriented Programming, Data Structures, Algorithms, and database management systems such as PostgreSQL and MySQL.
+On the frontend, I work with HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, and Tailwind CSS to create responsive and intuitive user interfaces. On the backend, I have experience developing robust applications using Python, Django, PHP, and modern database systems including PostgreSQL and MySQL.
 
-Introducing myself as your go-to WordPress developer extraordinaire, I bring a deep-rooted passion for WordPress themes and plugins. I have a proven track record of crafting and customizing WordPress sites, implementing innovative features and functionalities to enhance user experiences. My proficiency in PHP, along with my comprehensive knowledge of HTML, CSS, JavaScript, and React.js, ensures that I can deliver tailored solutions that meet your digital needs.
+My technical background includes Object-Oriented Programming (OOP), Data Structures, Algorithms, Database Design, and Software Architecture principles. I am committed to writing clean, maintainable code and continuously expanding my knowledge of modern software engineering practices and emerging technologies.
 
-Trust in my expertise to transform your digital vision into reality.
+In addition to custom software development, I have extensive experience with WordPress development, including theme customization, plugin integration, and feature implementation. This versatility enables me to deliver end-to-end solutions tailored to both business and user requirements.
+
+I enjoy solving complex problems, learning new technologies, and building software that creates meaningful value. My goal is to contribute to innovative projects, collaborate with talented teams, and grow as a software engineer while delivering high-quality products that make an impact.
+
             </p>
           </div>
           <Tabs id="custom-animation" defaultIndex='mainSkills' value="mainSkills">
