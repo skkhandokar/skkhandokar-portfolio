@@ -8,8 +8,8 @@ import {
 import { FaNodeJs, FaReact } from "react-icons/fa";
 import { FcNext } from "react-icons/fc";
 import { SiMongodb, SiExpress,SiPython, SiDjango,SiPostgresql } from "react-icons/si";
-import meImage from "../assets/images/me.jpeg";
-import projectShowImage from "../assets/images/project_show_2024.jpg";
+import meImage from "../../assets/images/me.jpeg";
+import projectShowImage from "../../assets/images/project_show_2024.jpg";
 
 const AboutUs = () => {
   const data = [
